@@ -1,5 +1,5 @@
 import React from 'react'
-import Mapping from './Components/Mapping/Mapping'
+import Mapping from './Components/Mapping'
 
 function App() {
 
