@@ -1,11 +1,14 @@
 import React from 'react'
-import Mapping from './Components/Mapping'
+import './styles/App.css'
+import Parent from './Components/ContextApiTest/Parent'
+
+
 
 function App() {
 
   return (
     <>
-      <Mapping />
+    <Parent />    
     </>
   )
 }
